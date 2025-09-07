@@ -236,3 +236,177 @@
 {"level":"info","message":"❌ Hatalı: 0","timestamp":"2025-09-07T21:25:03.125Z"}
 {"level":"info","message":"⏱️ Süre: 2.2 saniye","timestamp":"2025-09-07T21:25:03.125Z"}
 {"level":"warn","message":"⚠️ Düşük başarı oranı! API limitlerini kontrol et","timestamp":"2025-09-07T21:25:03.125Z"}
+2025-09-07 21:29:30 [INFO]: 💊 Sistem Durumu - Memory: 91MB | Uptime: 602s 
+{"level":"info","message":"🔄 === PERİYODİK VERİ TOPLAMA BAŞLADI ===","timestamp":"2025-09-07T21:30:00.977Z"}
+{"level":"info","message":"🔄 KuCoin market verilerini çekiliyor...","timestamp":"2025-09-07T21:30:00.978Z"}
+{"level":"info","message":"📊 Toplam 1296 ticker verisi alındı","timestamp":"2025-09-07T21:30:01.295Z"}
+{"level":"info","message":"✅ 2 yüksek hacimli coin filtrelendi","timestamp":"2025-09-07T21:30:01.296Z"}
+{"level":"info","message":"1. ETH-USDT: $4288.6700 (0.29%) Vol: $113.2M","timestamp":"2025-09-07T21:30:01.299Z"}
+{"level":"info","message":"2. BTC-USDT: $111178.5000 (0.91%) Vol: $89.5M","timestamp":"2025-09-07T21:30:01.299Z"}
+{"level":"info","message":"🎯 Analiz için seçilen coinler: 2 adet","timestamp":"2025-09-07T21:30:01.299Z"}
+{"level":"info","message":"📊 [1/2] ETH-USDT analiz ediliyor...","timestamp":"2025-09-07T21:30:01.299Z"}
+{"level":"info","message":"📈 ETH-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:30:01.299Z"}
+{"level":"info","message":"✅ ETH-USDT 15min: 100 mum | 2025-09-06T20:45:00.000Z -> 2025-09-07T21:30:00.000Z | Değişim: 0.37%","timestamp":"2025-09-07T21:30:01.554Z"}
+{"level":"info","message":"📈 ETH-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:30:01.554Z"}
+{"level":"info","message":"✅ ETH-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.99%","timestamp":"2025-09-07T21:30:01.820Z"}
+{"level":"info","message":"📈 ETH-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:30:01.820Z"}
+{"level":"info","message":"✅ ETH-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -4.16%","timestamp":"2025-09-07T21:30:02.079Z"}
+{"level":"info","message":"✅ ETH-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:30:02.082Z"}
+{"level":"info","message":"📊 [2/2] BTC-USDT analiz ediliyor...","timestamp":"2025-09-07T21:30:02.182Z"}
+{"level":"info","message":"📈 BTC-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:30:02.182Z"}
+{"level":"info","message":"✅ BTC-USDT 15min: 100 mum | 2025-09-06T20:45:00.000Z -> 2025-09-07T21:30:00.000Z | Değişim: 0.96%","timestamp":"2025-09-07T21:30:02.448Z"}
+{"level":"info","message":"📈 BTC-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:30:02.448Z"}
+{"level":"info","message":"✅ BTC-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.38%","timestamp":"2025-09-07T21:30:02.705Z"}
+{"level":"info","message":"📈 BTC-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:30:02.705Z"}
+{"level":"info","message":"✅ BTC-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -0.91%","timestamp":"2025-09-07T21:30:03.030Z"}
+{"level":"info","message":"✅ BTC-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:30:03.033Z"}
+{"level":"info","message":"✨ === VERİ TOPLAMA TAMAMLANDI ===","timestamp":"2025-09-07T21:30:03.134Z"}
+{"level":"info","message":"📈 Başarılı: 2/2 (100.0%)","timestamp":"2025-09-07T21:30:03.135Z"}
+{"level":"info","message":"❌ Hatalı: 0","timestamp":"2025-09-07T21:30:03.135Z"}
+{"level":"info","message":"⏱️ Süre: 2.2 saniye","timestamp":"2025-09-07T21:30:03.135Z"}
+{"level":"warn","message":"⚠️ Düşük başarı oranı! API limitlerini kontrol et","timestamp":"2025-09-07T21:30:03.135Z"}
+2025-09-07 21:34:30 [INFO]: 💊 Sistem Durumu - Memory: 86MB | Uptime: 902s 
+{"level":"info","message":"🔄 === PERİYODİK VERİ TOPLAMA BAŞLADI ===","timestamp":"2025-09-07T21:35:00.014Z"}
+{"level":"info","message":"🔄 KuCoin market verilerini çekiliyor...","timestamp":"2025-09-07T21:35:00.014Z"}
+{"level":"info","message":"📊 Toplam 1296 ticker verisi alındı","timestamp":"2025-09-07T21:35:00.316Z"}
+{"level":"info","message":"✅ 2 yüksek hacimli coin filtrelendi","timestamp":"2025-09-07T21:35:00.316Z"}
+{"level":"info","message":"1. ETH-USDT: $4290.8700 (0.32%) Vol: $113.1M","timestamp":"2025-09-07T21:35:00.317Z"}
+{"level":"info","message":"2. BTC-USDT: $111199.8000 (0.95%) Vol: $89.5M","timestamp":"2025-09-07T21:35:00.317Z"}
+{"level":"info","message":"🎯 Analiz için seçilen coinler: 2 adet","timestamp":"2025-09-07T21:35:00.317Z"}
+{"level":"info","message":"📊 [1/2] ETH-USDT analiz ediliyor...","timestamp":"2025-09-07T21:35:00.317Z"}
+{"level":"info","message":"📈 ETH-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:35:00.317Z"}
+{"level":"info","message":"✅ ETH-USDT 15min: 100 mum | 2025-09-06T20:45:00.000Z -> 2025-09-07T21:30:00.000Z | Değişim: 0.41%","timestamp":"2025-09-07T21:35:00.580Z"}
+{"level":"info","message":"📈 ETH-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:35:00.580Z"}
+{"level":"info","message":"✅ ETH-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.94%","timestamp":"2025-09-07T21:35:00.831Z"}
+{"level":"info","message":"📈 ETH-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:35:00.832Z"}
+{"level":"info","message":"✅ ETH-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -4.11%","timestamp":"2025-09-07T21:35:01.095Z"}
+{"level":"info","message":"✅ ETH-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:35:01.095Z"}
+{"level":"info","message":"📊 [2/2] BTC-USDT analiz ediliyor...","timestamp":"2025-09-07T21:35:01.195Z"}
+{"level":"info","message":"📈 BTC-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:35:01.195Z"}
+{"level":"info","message":"✅ BTC-USDT 15min: 100 mum | 2025-09-06T20:45:00.000Z -> 2025-09-07T21:30:00.000Z | Değişim: 0.98%","timestamp":"2025-09-07T21:35:01.462Z"}
+{"level":"info","message":"📈 BTC-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:35:01.462Z"}
+{"level":"info","message":"✅ BTC-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.36%","timestamp":"2025-09-07T21:35:01.710Z"}
+{"level":"info","message":"📈 BTC-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:35:01.710Z"}
+{"level":"info","message":"✅ BTC-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -0.89%","timestamp":"2025-09-07T21:35:01.981Z"}
+{"level":"info","message":"✅ BTC-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:35:01.981Z"}
+{"level":"info","message":"✨ === VERİ TOPLAMA TAMAMLANDI ===","timestamp":"2025-09-07T21:35:02.081Z"}
+{"level":"info","message":"📈 Başarılı: 2/2 (100.0%)","timestamp":"2025-09-07T21:35:02.081Z"}
+{"level":"info","message":"❌ Hatalı: 0","timestamp":"2025-09-07T21:35:02.082Z"}
+{"level":"info","message":"⏱️ Süre: 2.1 saniye","timestamp":"2025-09-07T21:35:02.082Z"}
+{"level":"warn","message":"⚠️ Düşük başarı oranı! API limitlerini kontrol et","timestamp":"2025-09-07T21:35:02.082Z"}
+2025-09-07 21:39:30 [INFO]: 💊 Sistem Durumu - Memory: 86MB | Uptime: 1202s 
+{"level":"info","message":"🔄 === PERİYODİK VERİ TOPLAMA BAŞLADI ===","timestamp":"2025-09-07T21:40:00.075Z"}
+{"level":"info","message":"🔄 KuCoin market verilerini çekiliyor...","timestamp":"2025-09-07T21:40:00.075Z"}
+{"level":"info","message":"📊 Toplam 1296 ticker verisi alındı","timestamp":"2025-09-07T21:40:00.407Z"}
+{"level":"info","message":"✅ 2 yüksek hacimli coin filtrelendi","timestamp":"2025-09-07T21:40:00.408Z"}
+{"level":"info","message":"1. ETH-USDT: $4294.1800 (0.54%) Vol: $112.5M","timestamp":"2025-09-07T21:40:00.410Z"}
+{"level":"info","message":"2. BTC-USDT: $111149.9000 (0.91%) Vol: $89.3M","timestamp":"2025-09-07T21:40:00.410Z"}
+{"level":"info","message":"🎯 Analiz için seçilen coinler: 2 adet","timestamp":"2025-09-07T21:40:00.410Z"}
+{"level":"info","message":"📊 [1/2] ETH-USDT analiz ediliyor...","timestamp":"2025-09-07T21:40:00.410Z"}
+{"level":"info","message":"📈 ETH-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:40:00.411Z"}
+{"level":"info","message":"✅ ETH-USDT 15min: 100 mum | 2025-09-06T20:45:00.000Z -> 2025-09-07T21:30:00.000Z | Değişim: 0.49%","timestamp":"2025-09-07T21:40:00.688Z"}
+{"level":"info","message":"📈 ETH-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:40:00.688Z"}
+{"level":"info","message":"✅ ETH-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.86%","timestamp":"2025-09-07T21:40:00.942Z"}
+{"level":"info","message":"📈 ETH-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:40:00.942Z"}
+{"level":"info","message":"✅ ETH-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -4.04%","timestamp":"2025-09-07T21:40:01.189Z"}
+{"level":"info","message":"✅ ETH-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:40:01.189Z"}
+{"level":"info","message":"📊 [2/2] BTC-USDT analiz ediliyor...","timestamp":"2025-09-07T21:40:01.289Z"}
+{"level":"info","message":"📈 BTC-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:40:01.290Z"}
+{"level":"info","message":"✅ BTC-USDT 15min: 100 mum | 2025-09-06T20:45:00.000Z -> 2025-09-07T21:30:00.000Z | Değişim: 0.93%","timestamp":"2025-09-07T21:40:01.542Z"}
+{"level":"info","message":"📈 BTC-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:40:01.542Z"}
+{"level":"info","message":"✅ BTC-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.41%","timestamp":"2025-09-07T21:40:01.796Z"}
+{"level":"info","message":"📈 BTC-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:40:01.796Z"}
+{"level":"info","message":"✅ BTC-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -0.93%","timestamp":"2025-09-07T21:40:02.074Z"}
+{"level":"info","message":"✅ BTC-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:40:02.074Z"}
+{"level":"info","message":"✨ === VERİ TOPLAMA TAMAMLANDI ===","timestamp":"2025-09-07T21:40:02.174Z"}
+{"level":"info","message":"📈 Başarılı: 2/2 (100.0%)","timestamp":"2025-09-07T21:40:02.174Z"}
+{"level":"info","message":"❌ Hatalı: 0","timestamp":"2025-09-07T21:40:02.174Z"}
+{"level":"info","message":"⏱️ Süre: 2.1 saniye","timestamp":"2025-09-07T21:40:02.174Z"}
+{"level":"warn","message":"⚠️ Düşük başarı oranı! API limitlerini kontrol et","timestamp":"2025-09-07T21:40:02.174Z"}
+2025-09-07 21:44:30 [INFO]: 💊 Sistem Durumu - Memory: 88MB | Uptime: 1502s 
+{"level":"info","message":"🔄 === PERİYODİK VERİ TOPLAMA BAŞLADI ===","timestamp":"2025-09-07T21:45:00.118Z"}
+{"level":"info","message":"🔄 KuCoin market verilerini çekiliyor...","timestamp":"2025-09-07T21:45:00.118Z"}
+{"level":"info","message":"📊 Toplam 1296 ticker verisi alındı","timestamp":"2025-09-07T21:45:00.452Z"}
+{"level":"info","message":"✅ 2 yüksek hacimli coin filtrelendi","timestamp":"2025-09-07T21:45:00.453Z"}
+{"level":"info","message":"1. ETH-USDT: $4290.6500 (0.42%) Vol: $113.0M","timestamp":"2025-09-07T21:45:00.453Z"}
+{"level":"info","message":"2. BTC-USDT: $111131.1000 (0.88%) Vol: $89.3M","timestamp":"2025-09-07T21:45:00.453Z"}
+{"level":"info","message":"🎯 Analiz için seçilen coinler: 2 adet","timestamp":"2025-09-07T21:45:00.453Z"}
+{"level":"info","message":"📊 [1/2] ETH-USDT analiz ediliyor...","timestamp":"2025-09-07T21:45:00.453Z"}
+{"level":"info","message":"📈 ETH-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:45:00.453Z"}
+{"level":"info","message":"✅ ETH-USDT 15min: 100 mum | 2025-09-06T20:45:00.000Z -> 2025-09-07T21:30:00.000Z | Değişim: 0.40%","timestamp":"2025-09-07T21:45:00.714Z"}
+{"level":"info","message":"📈 ETH-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:45:00.714Z"}
+{"level":"info","message":"✅ ETH-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.94%","timestamp":"2025-09-07T21:45:00.992Z"}
+{"level":"info","message":"📈 ETH-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:45:00.992Z"}
+{"level":"info","message":"✅ ETH-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -4.12%","timestamp":"2025-09-07T21:45:01.246Z"}
+{"level":"info","message":"✅ ETH-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:45:01.246Z"}
+{"level":"info","message":"📊 [2/2] BTC-USDT analiz ediliyor...","timestamp":"2025-09-07T21:45:01.347Z"}
+{"level":"info","message":"📈 BTC-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:45:01.347Z"}
+{"level":"info","message":"✅ BTC-USDT 15min: 99 mum | 2025-09-06T21:00:00.000Z -> 2025-09-07T21:30:00.000Z | Değişim: 0.88%","timestamp":"2025-09-07T21:45:01.608Z"}
+{"level":"info","message":"📈 BTC-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:45:01.608Z"}
+{"level":"info","message":"✅ BTC-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.42%","timestamp":"2025-09-07T21:45:01.858Z"}
+{"level":"info","message":"📈 BTC-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:45:01.859Z"}
+{"level":"info","message":"✅ BTC-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -0.95%","timestamp":"2025-09-07T21:45:02.109Z"}
+{"level":"info","message":"✅ BTC-USDT: 15m(99) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:45:02.109Z"}
+{"level":"info","message":"✨ === VERİ TOPLAMA TAMAMLANDI ===","timestamp":"2025-09-07T21:45:02.209Z"}
+{"level":"info","message":"📈 Başarılı: 2/2 (100.0%)","timestamp":"2025-09-07T21:45:02.209Z"}
+{"level":"info","message":"❌ Hatalı: 0","timestamp":"2025-09-07T21:45:02.209Z"}
+{"level":"info","message":"⏱️ Süre: 2.1 saniye","timestamp":"2025-09-07T21:45:02.209Z"}
+{"level":"warn","message":"⚠️ Düşük başarı oranı! API limitlerini kontrol et","timestamp":"2025-09-07T21:45:02.209Z"}
+2025-09-07 21:49:30 [INFO]: 💊 Sistem Durumu - Memory: 91MB | Uptime: 1802s 
+{"level":"info","message":"🔄 === PERİYODİK VERİ TOPLAMA BAŞLADI ===","timestamp":"2025-09-07T21:50:00.212Z"}
+{"level":"info","message":"🔄 KuCoin market verilerini çekiliyor...","timestamp":"2025-09-07T21:50:00.212Z"}
+{"level":"info","message":"📊 Toplam 1296 ticker verisi alındı","timestamp":"2025-09-07T21:50:00.508Z"}
+{"level":"info","message":"✅ 2 yüksek hacimli coin filtrelendi","timestamp":"2025-09-07T21:50:00.509Z"}
+{"level":"info","message":"1. ETH-USDT: $4294.0900 (0.40%) Vol: $113.0M","timestamp":"2025-09-07T21:50:00.509Z"}
+{"level":"info","message":"2. BTC-USDT: $111131.0000 (0.85%) Vol: $89.4M","timestamp":"2025-09-07T21:50:00.509Z"}
+{"level":"info","message":"🎯 Analiz için seçilen coinler: 2 adet","timestamp":"2025-09-07T21:50:00.509Z"}
+{"level":"info","message":"📊 [1/2] ETH-USDT analiz ediliyor...","timestamp":"2025-09-07T21:50:00.509Z"}
+{"level":"info","message":"📈 ETH-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:50:00.509Z"}
+{"level":"info","message":"✅ ETH-USDT 15min: 100 mum | 2025-09-06T21:00:00.000Z -> 2025-09-07T21:45:00.000Z | Değişim: 0.35%","timestamp":"2025-09-07T21:50:00.760Z"}
+{"level":"info","message":"📈 ETH-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:50:00.761Z"}
+{"level":"info","message":"✅ ETH-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.86%","timestamp":"2025-09-07T21:50:01.005Z"}
+{"level":"info","message":"📈 ETH-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:50:01.006Z"}
+{"level":"info","message":"✅ ETH-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -4.04%","timestamp":"2025-09-07T21:50:01.257Z"}
+{"level":"info","message":"✅ ETH-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:50:01.258Z"}
+{"level":"info","message":"📊 [2/2] BTC-USDT analiz ediliyor...","timestamp":"2025-09-07T21:50:01.358Z"}
+{"level":"info","message":"📈 BTC-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:50:01.358Z"}
+{"level":"info","message":"✅ BTC-USDT 15min: 100 mum | 2025-09-06T21:00:00.000Z -> 2025-09-07T21:45:00.000Z | Değişim: 0.87%","timestamp":"2025-09-07T21:50:01.673Z"}
+{"level":"info","message":"📈 BTC-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:50:01.674Z"}
+{"level":"info","message":"✅ BTC-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.43%","timestamp":"2025-09-07T21:50:01.924Z"}
+{"level":"info","message":"📈 BTC-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:50:01.924Z"}
+{"level":"info","message":"✅ BTC-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -0.96%","timestamp":"2025-09-07T21:50:02.179Z"}
+{"level":"info","message":"✅ BTC-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:50:02.179Z"}
+{"level":"info","message":"✨ === VERİ TOPLAMA TAMAMLANDI ===","timestamp":"2025-09-07T21:50:02.280Z"}
+{"level":"info","message":"📈 Başarılı: 2/2 (100.0%)","timestamp":"2025-09-07T21:50:02.280Z"}
+{"level":"info","message":"❌ Hatalı: 0","timestamp":"2025-09-07T21:50:02.280Z"}
+{"level":"info","message":"⏱️ Süre: 2.1 saniye","timestamp":"2025-09-07T21:50:02.280Z"}
+{"level":"warn","message":"⚠️ Düşük başarı oranı! API limitlerini kontrol et","timestamp":"2025-09-07T21:50:02.280Z"}
+2025-09-07 21:54:30 [INFO]: 💊 Sistem Durumu - Memory: 86MB | Uptime: 2102s 
+{"level":"info","message":"🔄 === PERİYODİK VERİ TOPLAMA BAŞLADI ===","timestamp":"2025-09-07T21:55:00.299Z"}
+{"level":"info","message":"🔄 KuCoin market verilerini çekiliyor...","timestamp":"2025-09-07T21:55:00.299Z"}
+{"level":"info","message":"📊 Toplam 1296 ticker verisi alındı","timestamp":"2025-09-07T21:55:00.621Z"}
+{"level":"info","message":"✅ 2 yüksek hacimli coin filtrelendi","timestamp":"2025-09-07T21:55:00.621Z"}
+{"level":"info","message":"1. ETH-USDT: $4288.9200 (0.18%) Vol: $113.0M","timestamp":"2025-09-07T21:55:00.621Z"}
+{"level":"info","message":"2. BTC-USDT: $111078.4000 (0.79%) Vol: $89.5M","timestamp":"2025-09-07T21:55:00.621Z"}
+{"level":"info","message":"🎯 Analiz için seçilen coinler: 2 adet","timestamp":"2025-09-07T21:55:00.622Z"}
+{"level":"info","message":"📊 [1/2] ETH-USDT analiz ediliyor...","timestamp":"2025-09-07T21:55:00.622Z"}
+{"level":"info","message":"📈 ETH-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:55:00.622Z"}
+{"level":"info","message":"✅ ETH-USDT 15min: 100 mum | 2025-09-06T21:00:00.000Z -> 2025-09-07T21:45:00.000Z | Değişim: 0.23%","timestamp":"2025-09-07T21:55:00.869Z"}
+{"level":"info","message":"📈 ETH-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:55:00.869Z"}
+{"level":"info","message":"✅ ETH-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.98%","timestamp":"2025-09-07T21:55:01.113Z"}
+{"level":"info","message":"📈 ETH-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:55:01.113Z"}
+{"level":"info","message":"✅ ETH-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -4.16%","timestamp":"2025-09-07T21:55:01.362Z"}
+{"level":"info","message":"✅ ETH-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:55:01.362Z"}
+{"level":"info","message":"📊 [2/2] BTC-USDT analiz ediliyor...","timestamp":"2025-09-07T21:55:01.463Z"}
+{"level":"info","message":"📈 BTC-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:55:01.463Z"}
+{"level":"info","message":"✅ BTC-USDT 15min: 100 mum | 2025-09-06T21:00:00.000Z -> 2025-09-07T21:45:00.000Z | Değişim: 0.83%","timestamp":"2025-09-07T21:55:01.713Z"}
+{"level":"info","message":"📈 BTC-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:55:01.713Z"}
+{"level":"info","message":"✅ BTC-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.47%","timestamp":"2025-09-07T21:55:01.964Z"}
+{"level":"info","message":"📈 BTC-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:55:01.965Z"}
+{"level":"info","message":"✅ BTC-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -1.00%","timestamp":"2025-09-07T21:55:02.242Z"}
+{"level":"info","message":"✅ BTC-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:55:02.242Z"}
+{"level":"info","message":"✨ === VERİ TOPLAMA TAMAMLANDI ===","timestamp":"2025-09-07T21:55:02.342Z"}
+{"level":"info","message":"📈 Başarılı: 2/2 (100.0%)","timestamp":"2025-09-07T21:55:02.343Z"}
+{"level":"info","message":"❌ Hatalı: 0","timestamp":"2025-09-07T21:55:02.343Z"}
+{"level":"info","message":"⏱️ Süre: 2.0 saniye","timestamp":"2025-09-07T21:55:02.343Z"}
+{"level":"warn","message":"⚠️ Düşük başarı oranı! API limitlerini kontrol et","timestamp":"2025-09-07T21:55:02.343Z"}
