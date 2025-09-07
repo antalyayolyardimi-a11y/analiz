@@ -1,0 +1,47 @@
+{
+  "name": "kripto-sinyal-analiz-botu",
+  "version": "1.0.0",
+  "description": "AI destekli kripto para sinyal analiz sistemi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run backend:dev\" \"npm run frontend:dev\"",
+    "backend:dev": "cd backend && npm run dev",
+    "frontend:dev": "cd frontend && npm run dev",
+    "data-collector:dev": "cd data-collector && npm run dev",
+    "signal-processor:dev": "cd signal-processor && npm run dev",
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install && cd ../data-collector && npm install && cd ../signal-processor && npm install",
+    "build": "cd frontend && npm run build && cd ../backend && npm run build",
+    "start": "cd backend && npm start",
+    "test": "npm run test --workspaces",
+    "lint": "npm run lint --workspaces"
+  },
+  "workspaces": [
+    "frontend",
+    "backend", 
+    "data-collector",
+    "signal-processor",
+    "ai-engine"
+  ],
+  "keywords": [
+    "crypto",
+    "trading",
+    "signals",
+    "technical-analysis",
+    "kucoin",
+    "ai",
+    "machine-learning"
+  ],
+  "author": "Analiz Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.1",
+    "typescript": "^5.2.2",
+    "@types/node": "^20.8.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}

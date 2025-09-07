@@ -1,0 +1,17 @@
+{"level":"info","message":"🚀 Server running on port 5000","timestamp":"2025-09-07T21:19:11.550Z"}
+{"level":"info","message":"📊 Socket.IO server ready","timestamp":"2025-09-07T21:19:11.551Z"}
+{"level":"info","message":"🔗 API available at http://localhost:5000/api","timestamp":"2025-09-07T21:19:11.552Z"}
+{"level":"info","message":"GET / - ::1","timestamp":"2025-09-07T21:19:27.478Z"}
+{"level":"info","message":"GET / - ::1","timestamp":"2025-09-07T21:19:30.593Z"}
+{"level":"info","message":"GET / - ::1","timestamp":"2025-09-07T21:20:13.670Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2025-09-07T21:20:26.844Z"}
+{"level":"info","message":"📊 Socket.IO server ready","timestamp":"2025-09-07T21:20:26.847Z"}
+{"level":"info","message":"🔗 API available at http://localhost:5001/api","timestamp":"2025-09-07T21:20:26.848Z"}
+{"level":"info","message":"GET / - ::1","timestamp":"2025-09-07T21:20:32.902Z"}
+{"level":"info","message":"🚀 Server running on port 3001","timestamp":"2025-09-07T21:22:18.865Z"}
+{"level":"info","message":"📊 Socket.IO server ready","timestamp":"2025-09-07T21:22:18.868Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3001/api","timestamp":"2025-09-07T21:22:18.868Z"}
+{"level":"info","message":"GET / - ::1","timestamp":"2025-09-07T21:22:27.156Z"}
+{"level":"info","message":"GET / - ::1","timestamp":"2025-09-07T21:23:10.082Z"}
+{"level":"info","message":"GET / - ::1","timestamp":"2025-09-07T21:23:13.233Z"}
+{"level":"info","message":"GET /api/market - ::1","timestamp":"2025-09-07T21:25:13.635Z"}

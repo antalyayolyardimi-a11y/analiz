@@ -1,0 +1,238 @@
+{"level":"info","message":"🔗 KuCoin WebSocket bağlantısı kuruluyor...","timestamp":"2025-09-07T21:10:48.570Z"}
+2025-09-07 21:10:48 [INFO]: 🚀 KuCoin Data Collector başlatılıyor... 
+{"level":"info","message":"⏱️ Periyodik veri toplama sistemi başlatılıyor...","timestamp":"2025-09-07T21:10:48.606Z"}
+{"level":"info","message":"📅 Periyodik veri toplama zamanlandı (her 5 dakika - */5 * * * *)","timestamp":"2025-09-07T21:10:48.608Z"}
+2025-09-07 21:10:48 [INFO]: 📋 Sistem Bilgileri: 
+2025-09-07 21:10:48 [INFO]:    - Node.js: v22.17.0 
+2025-09-07 21:10:48 [INFO]:    - Platform: linux 
+2025-09-07 21:10:48 [INFO]:    - Memory: 140 MB 
+2025-09-07 21:10:48 [INFO]:    - PID: 21552 
+2025-09-07 21:10:48 [INFO]: ✅ Data Collector başlatıldı 
+2025-09-07 21:10:48 [INFO]: 🔗 WebSocket bağlantıları kuruluyor... 
+2025-09-07 21:10:48 [INFO]: 📊 Market verileri toplanmaya başlanacak... 
+2025-09-07 21:10:48 [INFO]: ⏰ Periyodik analiz: Her 5 dakikada bir 
+2025-09-07 21:10:48 [INFO]: 🎯 Hedef: 50M$+ hacimli coinler 
+{"level":"info","message":"🌐 WebSocket sunucusuna bağlanılıyor: wss://ws-api-spot.kucoin.com/","timestamp":"2025-09-07T21:10:48.997Z"}
+{"level":"info","message":"✅ WebSocket bağlantısı kuruldu","timestamp":"2025-09-07T21:10:49.702Z"}
+{"level":"info","message":"📊 Tüm ticker güncellemelerine abone olundu","timestamp":"2025-09-07T21:10:49.703Z"}
+{"level":"info","message":"📈 5 major coin trade güncellemelerine abone olundu","timestamp":"2025-09-07T21:10:49.704Z"}
+{"level":"info","message":"🎉 KuCoin WebSocket welcome mesajı alındı","timestamp":"2025-09-07T21:10:49.705Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1757279449703","timestamp":"2025-09-07T21:10:49.923Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572794497046248E12","timestamp":"2025-09-07T21:10:49.924Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572794497041829E12","timestamp":"2025-09-07T21:10:49.925Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572794497040571E12","timestamp":"2025-09-07T21:10:49.925Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572794497048403E12","timestamp":"2025-09-07T21:10:49.926Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.757279449704739E12","timestamp":"2025-09-07T21:10:49.926Z"}
+2025-09-07 21:11:01 [INFO]: 📨 SIGINT sinyali alındı (Ctrl+C) 
+{"level":"info","message":"WebSocket bağlantısı kapatıldı","timestamp":"2025-09-07T21:11:01.380Z"}
+{"level":"info","message":"🔗 KuCoin WebSocket bağlantısı kuruluyor...","timestamp":"2025-09-07T21:11:04.133Z"}
+2025-09-07 21:11:04 [INFO]: 🚀 KuCoin Data Collector başlatılıyor... 
+2025-09-07 21:11:04 [INFO]: 📋 Sistem Bilgileri: 
+2025-09-07 21:11:04 [INFO]:    - Node.js: v22.17.0 
+2025-09-07 21:11:04 [INFO]:    - Platform: linux 
+2025-09-07 21:11:04 [INFO]:    - Memory: 138 MB 
+2025-09-07 21:11:04 [INFO]:    - PID: 21794 
+2025-09-07 21:11:04 [INFO]: ✅ Data Collector başlatıldı 
+2025-09-07 21:11:04 [INFO]: 🔗 WebSocket bağlantıları kuruluyor... 
+2025-09-07 21:11:04 [INFO]: 📊 Market verileri toplanmaya başlanacak... 
+2025-09-07 21:11:04 [INFO]: ⏰ Periyodik analiz: Her 5 dakikada bir 
+2025-09-07 21:11:04 [INFO]: 🎯 Hedef: 50M$+ hacimli coinler 
+{"level":"info","message":"⏱️ Periyodik veri toplama sistemi başlatılıyor...","timestamp":"2025-09-07T21:11:04.169Z"}
+{"level":"info","message":"📅 Periyodik veri toplama zamanlandı (her 5 dakika - */5 * * * *)","timestamp":"2025-09-07T21:11:04.171Z"}
+{"level":"info","message":"🌐 WebSocket sunucusuna bağlanılıyor: wss://ws-api-spot.kucoin.com/","timestamp":"2025-09-07T21:11:04.439Z"}
+{"level":"info","message":"✅ WebSocket bağlantısı kuruldu","timestamp":"2025-09-07T21:11:05.114Z"}
+{"level":"info","message":"📊 Tüm ticker güncellemelerine abone olundu","timestamp":"2025-09-07T21:11:05.115Z"}
+{"level":"info","message":"📈 5 major coin trade güncellemelerine abone olundu","timestamp":"2025-09-07T21:11:05.116Z"}
+{"level":"info","message":"🎉 KuCoin WebSocket welcome mesajı alındı","timestamp":"2025-09-07T21:11:05.117Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1757279465114","timestamp":"2025-09-07T21:11:05.336Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.757279465116532E12","timestamp":"2025-09-07T21:11:05.337Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.757279465116135E12","timestamp":"2025-09-07T21:11:05.337Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572794651160176E12","timestamp":"2025-09-07T21:11:05.337Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.757279465116235E12","timestamp":"2025-09-07T21:11:05.338Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572794651162573E12","timestamp":"2025-09-07T21:11:05.338Z"}
+2025-09-07 21:11:31 [INFO]: 📨 SIGTERM sinyali alındı 
+{"level":"info","message":"WebSocket bağlantısı kapatıldı","timestamp":"2025-09-07T21:11:31.488Z"}
+{"level":"info","message":"🔗 KuCoin WebSocket bağlantısı kuruluyor...","timestamp":"2025-09-07T21:18:24.169Z"}
+2025-09-07 21:18:24 [INFO]: 🚀 KuCoin Data Collector başlatılıyor... 
+{"level":"info","message":"⏱️ Periyodik veri toplama sistemi başlatılıyor...","timestamp":"2025-09-07T21:18:24.205Z"}
+{"level":"info","message":"📅 Periyodik veri toplama zamanlandı (her 5 dakika - */5 * * * *)","timestamp":"2025-09-07T21:18:24.208Z"}
+2025-09-07 21:18:24 [INFO]: 📋 Sistem Bilgileri: 
+2025-09-07 21:18:24 [INFO]:    - Node.js: v22.17.0 
+2025-09-07 21:18:24 [INFO]:    - Platform: linux 
+2025-09-07 21:18:24 [INFO]:    - Memory: 95 MB 
+2025-09-07 21:18:24 [INFO]:    - PID: 27089 
+2025-09-07 21:18:24 [INFO]: ✅ Data Collector başlatıldı 
+2025-09-07 21:18:24 [INFO]: 🔗 WebSocket bağlantıları kuruluyor... 
+2025-09-07 21:18:24 [INFO]: 📊 Market verileri toplanmaya başlanacak... 
+2025-09-07 21:18:24 [INFO]: ⏰ Periyodik analiz: Her 5 dakikada bir 
+2025-09-07 21:18:24 [INFO]: 🎯 Hedef: 50M$+ hacimli coinler 
+{"level":"info","message":"🌐 WebSocket sunucusuna bağlanılıyor: wss://ws-api-spot.kucoin.com/","timestamp":"2025-09-07T21:18:24.532Z"}
+{"level":"info","message":"✅ WebSocket bağlantısı kuruldu","timestamp":"2025-09-07T21:18:25.233Z"}
+{"level":"info","message":"📊 Tüm ticker güncellemelerine abone olundu","timestamp":"2025-09-07T21:18:25.234Z"}
+{"level":"info","message":"📈 5 major coin trade güncellemelerine abone olundu","timestamp":"2025-09-07T21:18:25.235Z"}
+{"level":"info","message":"🎉 KuCoin WebSocket welcome mesajı alındı","timestamp":"2025-09-07T21:18:25.236Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1757279905233","timestamp":"2025-09-07T21:18:25.456Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572799052355771E12","timestamp":"2025-09-07T21:18:25.457Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572799052351204E12","timestamp":"2025-09-07T21:18:25.457Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572799052354097E12","timestamp":"2025-09-07T21:18:25.457Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.757279905235954E12","timestamp":"2025-09-07T21:18:25.457Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572799052356914E12","timestamp":"2025-09-07T21:18:25.457Z"}
+2025-09-07 21:18:28 [INFO]: 📨 SIGINT sinyali alındı (Ctrl+C) 
+{"level":"info","message":"WebSocket bağlantısı kapatıldı","timestamp":"2025-09-07T21:18:28.226Z"}
+{"level":"info","message":"🔗 KuCoin WebSocket bağlantısı kuruluyor...","timestamp":"2025-09-07T21:19:30.816Z"}
+2025-09-07 21:19:30 [INFO]: 🚀 KuCoin Data Collector başlatılıyor... 
+{"level":"info","message":"⏱️ Periyodik veri toplama sistemi başlatılıyor...","timestamp":"2025-09-07T21:19:30.858Z"}
+{"level":"info","message":"📅 Periyodik veri toplama zamanlandı (her 5 dakika - */5 * * * *)","timestamp":"2025-09-07T21:19:30.862Z"}
+2025-09-07 21:19:30 [INFO]: 📋 Sistem Bilgileri: 
+2025-09-07 21:19:30 [INFO]:    - Node.js: v22.17.0 
+2025-09-07 21:19:30 [INFO]:    - Platform: linux 
+2025-09-07 21:19:30 [INFO]:    - Memory: 95 MB 
+2025-09-07 21:19:30 [INFO]:    - PID: 29569 
+2025-09-07 21:19:30 [INFO]: ✅ Data Collector başlatıldı 
+2025-09-07 21:19:30 [INFO]: 🔗 WebSocket bağlantıları kuruluyor... 
+2025-09-07 21:19:30 [INFO]: 📊 Market verileri toplanmaya başlanacak... 
+2025-09-07 21:19:30 [INFO]: ⏰ Periyodik analiz: Her 5 dakikada bir 
+2025-09-07 21:19:30 [INFO]: 🎯 Hedef: 50M$+ hacimli coinler 
+{"level":"info","message":"🌐 WebSocket sunucusuna bağlanılıyor: wss://ws-api-spot.kucoin.com/","timestamp":"2025-09-07T21:19:31.218Z"}
+{"level":"info","message":"✅ WebSocket bağlantısı kuruldu","timestamp":"2025-09-07T21:19:31.918Z"}
+{"level":"info","message":"📊 Tüm ticker güncellemelerine abone olundu","timestamp":"2025-09-07T21:19:31.919Z"}
+{"level":"info","message":"📈 5 major coin trade güncellemelerine abone olundu","timestamp":"2025-09-07T21:19:31.920Z"}
+{"level":"info","message":"🎉 KuCoin WebSocket welcome mesajı alındı","timestamp":"2025-09-07T21:19:31.921Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1757279971918","timestamp":"2025-09-07T21:19:32.140Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.757279971920241E12","timestamp":"2025-09-07T21:19:32.141Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572799719209255E12","timestamp":"2025-09-07T21:19:32.141Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.75727997192018E12","timestamp":"2025-09-07T21:19:32.141Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572799719204053E12","timestamp":"2025-09-07T21:19:32.141Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.757279971920006E12","timestamp":"2025-09-07T21:19:32.142Z"}
+{"level":"info","message":"🚀 İlk veri toplama başlatılıyor...","timestamp":"2025-09-07T21:20:00.862Z"}
+{"level":"info","message":"🔄 KuCoin market verilerini çekiliyor...","timestamp":"2025-09-07T21:20:00.862Z"}
+{"level":"info","message":"🔄 === PERİYODİK VERİ TOPLAMA BAŞLADI ===","timestamp":"2025-09-07T21:20:00.867Z"}
+{"level":"info","message":"🔄 KuCoin market verilerini çekiliyor...","timestamp":"2025-09-07T21:20:00.867Z"}
+{"level":"info","message":"📊 Toplam 1296 ticker verisi alındı","timestamp":"2025-09-07T21:20:01.158Z"}
+{"level":"info","message":"✅ 2 yüksek hacimli coin filtrelendi","timestamp":"2025-09-07T21:20:01.159Z"}
+{"level":"info","message":"1. ETH-USDT: $4291.3100 (0.38%) Vol: $113.2M","timestamp":"2025-09-07T21:20:01.159Z"}
+{"level":"info","message":"2. BTC-USDT: $111213.9000 (0.93%) Vol: $89.7M","timestamp":"2025-09-07T21:20:01.160Z"}
+{"level":"info","message":"🎯 Analiz için seçilen coinler: 2 adet","timestamp":"2025-09-07T21:20:01.160Z"}
+{"level":"info","message":"📊 [1/2] ETH-USDT analiz ediliyor...","timestamp":"2025-09-07T21:20:01.160Z"}
+{"level":"info","message":"📈 ETH-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:20:01.160Z"}
+{"level":"info","message":"📊 Toplam 1296 ticker verisi alındı","timestamp":"2025-09-07T21:20:01.171Z"}
+{"level":"info","message":"✅ 2 yüksek hacimli coin filtrelendi","timestamp":"2025-09-07T21:20:01.172Z"}
+{"level":"info","message":"1. ETH-USDT: $4291.3100 (0.38%) Vol: $113.2M","timestamp":"2025-09-07T21:20:01.172Z"}
+{"level":"info","message":"2. BTC-USDT: $111213.9000 (0.93%) Vol: $89.7M","timestamp":"2025-09-07T21:20:01.172Z"}
+{"level":"info","message":"📊 Sistem hazır - 2 coin takip ediliyor","timestamp":"2025-09-07T21:20:01.172Z"}
+{"level":"info","message":"✅ ETH-USDT 15min: 100 mum | 2025-09-06T20:30:00.000Z -> 2025-09-07T21:15:00.000Z | Değişim: 0.62%","timestamp":"2025-09-07T21:20:01.408Z"}
+{"level":"info","message":"📈 ETH-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:20:01.408Z"}
+{"level":"info","message":"✅ ETH-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.93%","timestamp":"2025-09-07T21:20:01.673Z"}
+{"level":"info","message":"📈 ETH-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:20:01.673Z"}
+{"level":"info","message":"✅ ETH-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -4.11%","timestamp":"2025-09-07T21:20:01.930Z"}
+{"level":"info","message":"✅ ETH-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:20:01.930Z"}
+{"level":"info","message":"📊 [2/2] BTC-USDT analiz ediliyor...","timestamp":"2025-09-07T21:20:02.032Z"}
+{"level":"info","message":"📈 BTC-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:20:02.032Z"}
+{"level":"info","message":"✅ BTC-USDT 15min: 100 mum | 2025-09-06T20:30:00.000Z -> 2025-09-07T21:15:00.000Z | Değişim: 1.04%","timestamp":"2025-09-07T21:20:02.402Z"}
+{"level":"info","message":"📈 BTC-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:20:02.402Z"}
+{"level":"info","message":"✅ BTC-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.35%","timestamp":"2025-09-07T21:20:02.663Z"}
+{"level":"info","message":"📈 BTC-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:20:02.664Z"}
+{"level":"info","message":"✅ BTC-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -0.88%","timestamp":"2025-09-07T21:20:02.919Z"}
+{"level":"info","message":"✅ BTC-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:20:02.919Z"}
+{"level":"info","message":"✨ === VERİ TOPLAMA TAMAMLANDI ===","timestamp":"2025-09-07T21:20:03.019Z"}
+{"level":"info","message":"📈 Başarılı: 2/2 (100.0%)","timestamp":"2025-09-07T21:20:03.019Z"}
+{"level":"info","message":"❌ Hatalı: 0","timestamp":"2025-09-07T21:20:03.019Z"}
+{"level":"info","message":"⏱️ Süre: 2.2 saniye","timestamp":"2025-09-07T21:20:03.019Z"}
+{"level":"warn","message":"⚠️ Düşük başarı oranı! API limitlerini kontrol et","timestamp":"2025-09-07T21:20:03.019Z"}
+{"level":"info","message":"🔗 KuCoin WebSocket bağlantısı kuruluyor...","timestamp":"2025-09-07T21:22:40.113Z"}
+2025-09-07 21:22:40 [INFO]: 🚀 KuCoin Data Collector başlatılıyor... 
+{"level":"info","message":"⏱️ Periyodik veri toplama sistemi başlatılıyor...","timestamp":"2025-09-07T21:22:40.156Z"}
+{"level":"info","message":"📅 Periyodik veri toplama zamanlandı (her 5 dakika - */5 * * * *)","timestamp":"2025-09-07T21:22:40.159Z"}
+2025-09-07 21:22:40 [INFO]: 📋 Sistem Bilgileri: 
+2025-09-07 21:22:40 [INFO]:    - Node.js: v22.17.0 
+2025-09-07 21:22:40 [INFO]:    - Platform: linux 
+2025-09-07 21:22:40 [INFO]:    - Memory: 95 MB 
+2025-09-07 21:22:40 [INFO]:    - PID: 33634 
+2025-09-07 21:22:40 [INFO]: ✅ Data Collector başlatıldı 
+2025-09-07 21:22:40 [INFO]: 🔗 WebSocket bağlantıları kuruluyor... 
+2025-09-07 21:22:40 [INFO]: 📊 Market verileri toplanmaya başlanacak... 
+2025-09-07 21:22:40 [INFO]: ⏰ Periyodik analiz: Her 5 dakikada bir 
+2025-09-07 21:22:40 [INFO]: 🎯 Hedef: 50M$+ hacimli coinler 
+{"level":"info","message":"🌐 WebSocket sunucusuna bağlanılıyor: wss://ws-api-spot.kucoin.com/","timestamp":"2025-09-07T21:22:40.488Z"}
+{"level":"info","message":"✅ WebSocket bağlantısı kuruldu","timestamp":"2025-09-07T21:22:41.196Z"}
+{"level":"info","message":"📊 Tüm ticker güncellemelerine abone olundu","timestamp":"2025-09-07T21:22:41.198Z"}
+{"level":"info","message":"📈 5 major coin trade güncellemelerine abone olundu","timestamp":"2025-09-07T21:22:41.198Z"}
+{"level":"info","message":"🎉 KuCoin WebSocket welcome mesajı alındı","timestamp":"2025-09-07T21:22:41.200Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1757280161197","timestamp":"2025-09-07T21:22:41.417Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.757280161198006E12","timestamp":"2025-09-07T21:22:41.419Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572801611984329E12","timestamp":"2025-09-07T21:22:41.419Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572801611986423E12","timestamp":"2025-09-07T21:22:41.420Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.757280161198603E12","timestamp":"2025-09-07T21:22:41.420Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572801611983774E12","timestamp":"2025-09-07T21:22:41.420Z"}
+{"level":"info","message":"🚀 İlk veri toplama başlatılıyor...","timestamp":"2025-09-07T21:23:10.159Z"}
+{"level":"info","message":"🔄 KuCoin market verilerini çekiliyor...","timestamp":"2025-09-07T21:23:10.160Z"}
+{"level":"info","message":"📊 Toplam 1296 ticker verisi alındı","timestamp":"2025-09-07T21:23:10.449Z"}
+{"level":"info","message":"✅ 2 yüksek hacimli coin filtrelendi","timestamp":"2025-09-07T21:23:10.450Z"}
+{"level":"info","message":"1. ETH-USDT: $4290.2600 (0.37%) Vol: $113.2M","timestamp":"2025-09-07T21:23:10.450Z"}
+{"level":"info","message":"2. BTC-USDT: $111214.0000 (0.92%) Vol: $89.6M","timestamp":"2025-09-07T21:23:10.450Z"}
+{"level":"info","message":"📊 Sistem hazır - 2 coin takip ediliyor","timestamp":"2025-09-07T21:23:10.450Z"}
+2025-09-07 21:23:16 [INFO]: 📨 SIGINT sinyali alındı (Ctrl+C) 
+{"level":"info","message":"WebSocket bağlantısı kapatıldı","timestamp":"2025-09-07T21:23:16.737Z"}
+{"level":"info","message":"🔗 KuCoin WebSocket bağlantısı kuruluyor...","timestamp":"2025-09-07T21:23:57.701Z"}
+2025-09-07 21:23:57 [INFO]: 🚀 KuCoin Data Collector başlatılıyor... 
+{"level":"info","message":"⏱️ Periyodik veri toplama sistemi başlatılıyor...","timestamp":"2025-09-07T21:23:57.743Z"}
+{"level":"info","message":"📅 Periyodik veri toplama zamanlandı (her 5 dakika - */5 * * * *)","timestamp":"2025-09-07T21:23:57.746Z"}
+2025-09-07 21:23:57 [INFO]: 📋 Sistem Bilgileri: 
+2025-09-07 21:23:57 [INFO]:    - Node.js: v22.17.0 
+2025-09-07 21:23:57 [INFO]:    - Platform: linux 
+2025-09-07 21:23:57 [INFO]:    - Memory: 95 MB 
+2025-09-07 21:23:57 [INFO]:    - PID: 35367 
+2025-09-07 21:23:57 [INFO]: ✅ Data Collector başlatıldı 
+2025-09-07 21:23:57 [INFO]: 🔗 WebSocket bağlantıları kuruluyor... 
+2025-09-07 21:23:57 [INFO]: 📊 Market verileri toplanmaya başlanacak... 
+2025-09-07 21:23:57 [INFO]: ⏰ Periyodik analiz: Her 5 dakikada bir 
+2025-09-07 21:23:57 [INFO]: 🎯 Hedef: 50M$+ hacimli coinler 
+{"level":"info","message":"🌐 WebSocket sunucusuna bağlanılıyor: wss://ws-api-spot.kucoin.com/","timestamp":"2025-09-07T21:23:58.050Z"}
+{"level":"info","message":"✅ WebSocket bağlantısı kuruldu","timestamp":"2025-09-07T21:23:58.741Z"}
+{"level":"info","message":"📊 Tüm ticker güncellemelerine abone olundu","timestamp":"2025-09-07T21:23:58.742Z"}
+{"level":"info","message":"📈 5 major coin trade güncellemelerine abone olundu","timestamp":"2025-09-07T21:23:58.743Z"}
+{"level":"info","message":"🎉 KuCoin WebSocket welcome mesajı alındı","timestamp":"2025-09-07T21:23:58.744Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1757280238742","timestamp":"2025-09-07T21:23:58.962Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.757280238743234E12","timestamp":"2025-09-07T21:23:58.963Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572802387430444E12","timestamp":"2025-09-07T21:23:58.963Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572802387430378E12","timestamp":"2025-09-07T21:23:58.963Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.7572802387436494E12","timestamp":"2025-09-07T21:23:58.964Z"}
+{"level":"info","message":"✅ Subscription onaylandı: 1.757280238743507E12","timestamp":"2025-09-07T21:23:58.970Z"}
+{"level":"info","message":"🚀 İlk veri toplama başlatılıyor...","timestamp":"2025-09-07T21:24:27.746Z"}
+{"level":"info","message":"🔄 KuCoin market verilerini çekiliyor...","timestamp":"2025-09-07T21:24:27.747Z"}
+{"level":"info","message":"📊 Toplam 1296 ticker verisi alındı","timestamp":"2025-09-07T21:24:28.070Z"}
+{"level":"info","message":"✅ 2 yüksek hacimli coin filtrelendi","timestamp":"2025-09-07T21:24:28.072Z"}
+{"level":"info","message":"1. ETH-USDT: $4289.8300 (0.34%) Vol: $113.2M","timestamp":"2025-09-07T21:24:28.072Z"}
+{"level":"info","message":"2. BTC-USDT: $111201.8000 (0.93%) Vol: $89.6M","timestamp":"2025-09-07T21:24:28.072Z"}
+{"level":"info","message":"📊 Sistem hazır - 2 coin takip ediliyor","timestamp":"2025-09-07T21:24:28.072Z"}
+2025-09-07 21:24:30 [INFO]: 💊 Sistem Durumu - Memory: 85MB | Uptime: 302s 
+2025-09-07 21:25:00 [INFO]: 📨 SIGINT sinyali alındı (Ctrl+C) 
+{"level":"info","message":"WebSocket bağlantısı kapatıldı","timestamp":"2025-09-07T21:25:00.752Z"}
+{"level":"info","message":"🔄 === PERİYODİK VERİ TOPLAMA BAŞLADI ===","timestamp":"2025-09-07T21:25:00.923Z"}
+{"level":"info","message":"🔄 KuCoin market verilerini çekiliyor...","timestamp":"2025-09-07T21:25:00.924Z"}
+{"level":"info","message":"📊 Toplam 1296 ticker verisi alındı","timestamp":"2025-09-07T21:25:01.227Z"}
+{"level":"info","message":"✅ 2 yüksek hacimli coin filtrelendi","timestamp":"2025-09-07T21:25:01.230Z"}
+{"level":"info","message":"1. ETH-USDT: $4289.8300 (0.37%) Vol: $113.1M","timestamp":"2025-09-07T21:25:01.233Z"}
+{"level":"info","message":"2. BTC-USDT: $111199.3000 (0.93%) Vol: $89.6M","timestamp":"2025-09-07T21:25:01.233Z"}
+{"level":"info","message":"🎯 Analiz için seçilen coinler: 2 adet","timestamp":"2025-09-07T21:25:01.233Z"}
+{"level":"info","message":"📊 [1/2] ETH-USDT analiz ediliyor...","timestamp":"2025-09-07T21:25:01.233Z"}
+{"level":"info","message":"📈 ETH-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:25:01.233Z"}
+{"level":"info","message":"✅ ETH-USDT 15min: 100 mum | 2025-09-06T20:30:00.000Z -> 2025-09-07T21:15:00.000Z | Değişim: 0.58%","timestamp":"2025-09-07T21:25:01.489Z"}
+{"level":"info","message":"📈 ETH-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:25:01.489Z"}
+{"level":"info","message":"✅ ETH-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.96%","timestamp":"2025-09-07T21:25:01.889Z"}
+{"level":"info","message":"📈 ETH-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:25:01.889Z"}
+{"level":"info","message":"✅ ETH-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -4.14%","timestamp":"2025-09-07T21:25:02.136Z"}
+{"level":"info","message":"✅ ETH-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:25:02.137Z"}
+{"level":"info","message":"📊 [2/2] BTC-USDT analiz ediliyor...","timestamp":"2025-09-07T21:25:02.237Z"}
+{"level":"info","message":"📈 BTC-USDT 15min OHLCV verileri çekiliyor... (100 mum)","timestamp":"2025-09-07T21:25:02.238Z"}
+{"level":"info","message":"✅ BTC-USDT 15min: 100 mum | 2025-09-06T20:30:00.000Z -> 2025-09-07T21:15:00.000Z | Değişim: 1.03%","timestamp":"2025-09-07T21:25:02.481Z"}
+{"level":"info","message":"📈 BTC-USDT 1hour OHLCV verileri çekiliyor... (50 mum)","timestamp":"2025-09-07T21:25:02.482Z"}
+{"level":"info","message":"✅ BTC-USDT 1hour: 50 mum | 2025-09-05T20:00:00.000Z -> 2025-09-07T21:00:00.000Z | Değişim: -0.36%","timestamp":"2025-09-07T21:25:02.744Z"}
+{"level":"info","message":"📈 BTC-USDT 4hour OHLCV verileri çekiliyor... (25 mum)","timestamp":"2025-09-07T21:25:02.745Z"}
+{"level":"info","message":"✅ BTC-USDT 4hour: 25 mum | 2025-09-03T20:00:00.000Z -> 2025-09-07T20:00:00.000Z | Değişim: -0.89%","timestamp":"2025-09-07T21:25:03.025Z"}
+{"level":"info","message":"✅ BTC-USDT: 15m(100) 1h(50) 4h(25) mum verisi toplandı","timestamp":"2025-09-07T21:25:03.025Z"}
+{"level":"info","message":"✨ === VERİ TOPLAMA TAMAMLANDI ===","timestamp":"2025-09-07T21:25:03.125Z"}
+{"level":"info","message":"📈 Başarılı: 2/2 (100.0%)","timestamp":"2025-09-07T21:25:03.125Z"}
+{"level":"info","message":"❌ Hatalı: 0","timestamp":"2025-09-07T21:25:03.125Z"}
+{"level":"info","message":"⏱️ Süre: 2.2 saniye","timestamp":"2025-09-07T21:25:03.125Z"}
+{"level":"warn","message":"⚠️ Düşük başarı oranı! API limitlerini kontrol et","timestamp":"2025-09-07T21:25:03.125Z"}
