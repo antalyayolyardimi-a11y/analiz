@@ -46,7 +46,7 @@ const CryptoPriceCard: React.FC<CryptoPriceCardProps> = ({
         style: 'currency',
         currency: 'USD',
         minimumFractionDigits: 2,
-        maximumFractionDigits: price > 100 ? 0 : 4
+        maximumFractionDigits: price > 100 ? 2 : 4
     }).format(currentPrice);
 
     const formattedVolume = new Intl.NumberFormat('en-US', {
